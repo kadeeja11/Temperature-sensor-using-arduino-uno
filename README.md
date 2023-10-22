@@ -15,4 +15,5 @@ Application: There are many Application for a temperature sensor out of which fe
 In this video, I have taken cold water in my glass and checked temperature
 
 
+https://github.com/kadeeja11/Temperature-sensor-using-arduino-uno/assets/102726951/dc156da9-23ea-49c1-99ed-b5de6463eebd
 
