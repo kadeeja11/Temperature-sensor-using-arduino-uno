@@ -8,3 +8,5 @@ Application: There are many Application for a temperature sensor out of which fe
 •	To find the safe temperature for baby bath 
 •	To check the body temperature of a person
 •	To check the temperature of the computer system so as to ensure it doesn’t overheat
+![WhatsApp Image 2023-10-22 at 10 12 42 AM](https://github.com/kadeeja11/Temperature-sensor-using-arduino-uno/assets/102726951/cf2ff77b-5066-4177-8554-acd2b6042fd1)
+![WhatsApp Image 2023-10-22 at 10 12 12 AM](https://github.com/kadeeja11/Temperature-sensor-using-arduino-uno/assets/102726951/729710be-4c71-4fd7-a776-520f52182559)
